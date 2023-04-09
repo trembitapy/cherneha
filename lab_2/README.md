@@ -15,3 +15,5 @@ git checkout main<br/>
 
 Пункт 9 зміна файлу<br/>
 Зміни підтягнулись за допомогою команди git pull<br/>
+
+![Demon slayer](https://github.com/trembitapy/cherneha/blob/main/lab_2/image.jpg)
